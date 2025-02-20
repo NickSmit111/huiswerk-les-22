@@ -24,3 +24,12 @@ legend{
     padding-top: 20px;
     color:rgb(0, 0, 0);
 }
+
+#c{
+    color: rgb(137, 43, 226);
+}
+
+#b{
+    background-color: rgb(150, 53, 246);
+    color: rgb(255, 255, 255)
+}
